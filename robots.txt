@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-1-rubl.github.io
+Sitemap: https://kazino-1-rubl.github.io/sitemap.xml
